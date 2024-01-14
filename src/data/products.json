@@ -1,0 +1,362 @@
+[
+    {
+      "_id": "64536f04eab30863dd46940e",
+      "name": "enim labore anim",
+      "price": "$282",
+      "picture": "https://i.ytimg.com/vi/eUrgfMZjP3k/maxresdefault.jpg",
+      "color": "brown",
+      "description": "Pariatur pariatur amet sit nulla culpa commodo minim enim cupidatat aute quis do nostrud exercitation. Proident irure ut Lorem fugiat nostrud minim occaecat aliqua irure ea elit Lorem cillum labore. Nisi ullamco reprehenderit nostrud quis culpa excepteur amet in sint occaecat aliquip id enim officia. Consequat sunt pariatur eiusmod ut ad esse sint laboris sit veniam nisi officia aliqua. Officia irure mollit excepteur cupidatat. Lorem incididunt in et eu.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "Lorem",
+        "nisi",
+        "consectetur",
+        "eu",
+        "occaecat",
+        "proident",
+        "occaecat"
+      ]
+    },
+    {
+      "_id": "64536f04ea0243ca72c00e81",
+      "name": "est labore do",
+      "price": "$141",
+      "picture": "https://prod.assets.earlygamecdn.com/images/Untitled-design-18.jpg?mtime=1659408515",
+      "color": "blue",
+      "description": "In aliqua nisi consectetur velit occaecat labore esse officia ad consequat aute enim anim magna. Ipsum eiusmod incididunt commodo minim minim deserunt aute sunt cillum consequat. Ullamco labore est voluptate quis qui culpa duis dolore ut voluptate duis ullamco. Ipsum incididunt reprehenderit sit laborum. Irure eu nostrud ea minim amet. Sint ipsum ea consequat sint amet ea sit id esse ex nulla consectetur exercitation.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "velit",
+        "excepteur",
+        "reprehenderit",
+        "duis",
+        "exercitation",
+        "voluptate",
+        "dolor"
+      ]
+    },
+    {
+      "_id": "64536f0484aeb386b40a0aad",
+      "name": "dolore labore ex",
+      "price": "$166",
+      "picture": "https://prod.assets.earlygamecdn.com/images/Valorant-Skins-OP_2021-08-05-121610_ogxq.jpg?x=0.5&y=0.5",
+      "color": "green",
+      "description": "Ut consequat proident est anim pariatur exercitation cupidatat deserunt eiusmod aute. Et qui commodo nisi dolor do incididunt magna enim officia labore aliquip ad et eu. Reprehenderit veniam aliqua officia excepteur aliqua in nostrud. Lorem aute occaecat amet ex enim. Occaecat in commodo tempor et tempor pariatur et minim. Irure culpa reprehenderit et commodo aliquip quis enim consectetur sit nostrud consequat.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "sit",
+        "consequat",
+        "ad",
+        "ut",
+        "anim",
+        "in",
+        "cupidatat"
+      ]
+    },
+    {
+      "_id": "64536f047f59ed75eccd0c67",
+      "name": "enim proident tempor",
+      "price": "$244",
+      "picture": "https://www.datocms-assets.com/92583/1686646553-valorant-skins-bundle_radiant_entertainment_system.webp",
+      "color": "blue",
+      "description": "Aliqua consectetur pariatur ea tempor sunt amet consequat ullamco aliqua. Commodo adipisicing nostrud culpa aliquip sint. Qui eu ex nulla tempor enim. Sit cillum nulla cillum sit tempor culpa sint voluptate ut proident laborum duis sit. Eu sint est id ad ut voluptate non. Lorem pariatur reprehenderit ea minim minim id. Pariatur sit pariatur est ea sunt.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "sunt",
+        "duis",
+        "est",
+        "consequat",
+        "est",
+        "ea",
+        "dolore"
+      ]
+    },
+    {
+      "_id": "64536f0470b48cc7b2af1071",
+      "name": "fugiat qui eu",
+      "price": "$269",
+      "picture": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/Valorant-skins-bundle.jpg",
+      "color": "green",
+      "description": "Adipisicing aliquip laborum anim eiusmod occaecat non laborum id do consequat irure ea anim esse. Irure ut pariatur consequat ut. Excepteur aliquip adipisicing id mollit laborum consequat incididunt. In dolor veniam reprehenderit ullamco elit. Ad ad nulla duis excepteur non pariatur sint occaecat nostrud qui consectetur nostrud ea. Magna et aute nostrud quis commodo.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "dolore",
+        "et",
+        "proident",
+        "do",
+        "ut",
+        "laborum",
+        "velit"
+      ]
+    },
+    {
+      "_id": "64536f0460a31803610a37d1",
+      "name": "excepteur velit officia",
+      "price": "$142",
+      "picture": "https://thegamehaus.com/wp-content/uploads/2021/03/f14b5-16146020647632-800.jpg",
+      "color": "green",
+      "description": "Ullamco aliqua irure incididunt mollit anim. Cupidatat do incididunt eu qui labore cupidatat ipsum. Sint labore voluptate incididunt deserunt amet tempor proident id officia. Elit eiusmod consequat in mollit nisi occaecat deserunt aliquip labore aliquip.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "consectetur",
+        "dolore",
+        "velit",
+        "id",
+        "do",
+        "magna",
+        "id"
+      ]
+    },
+    {
+      "_id": "64536f048d2caf78d4ebf058",
+      "name": "labore elit dolore",
+      "price": "$293",
+      "picture": "https://imageio.forbes.com/specials-images/imageserve/6124eb471a4d068e78d58199/The-Recon-skin-Bundle-in-Valorant/960x0.jpg?format=jpg&width=960",
+      "color": "brown",
+      "description": "Magna aliqua ullamco consectetur cillum amet Lorem laboris aliquip laborum id. Reprehenderit eu commodo consectetur pariatur exercitation dolore aliqua. Aute sunt enim aliquip est do magna et reprehenderit laboris consequat non mollit dolor.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "nulla",
+        "incididunt",
+        "nostrud",
+        "do",
+        "nulla",
+        "proident",
+        "in"
+      ]
+    },
+    {
+      "_id": "64536f04dbf14ec47e3d0d25",
+      "name": "ut voluptate ex",
+      "price": "$175",
+      "picture": "https://dotesports.com/wp-content/uploads/2022/06/07114605/FUqaduJWIAYvU74.jpg?w=1200",
+      "color": "green",
+      "description": "Magna ut cillum duis esse qui Lorem. Ullamco ut aliqua exercitation est id occaecat velit ipsum do ex dolor veniam. Fugiat occaecat tempor occaecat sit consequat adipisicing occaecat. Cillum laboris sit ipsum ex non quis laboris enim nisi ad esse nulla anim. Dolor minim enim ex exercitation cillum eu amet.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "ut",
+        "fugiat",
+        "officia",
+        "duis",
+        "Lorem",
+        "adipisicing",
+        "nisi"
+      ]
+    },
+    {
+      "_id": "64536f041452d1e3fcb6984b",
+      "name": "ea qui incididunt",
+      "price": "$112",
+      "picture": "https://image-cdn.essentiallysports.com/wp-content/uploads/star-wars-x-valorant.png?width=600",
+      "color": "blue",
+      "description": "Voluptate dolor minim exercitation non qui irure anim non esse ea. Adipisicing esse ullamco eu nostrud adipisicing sunt in cillum sunt ut reprehenderit laboris ex. Fugiat ea anim tempor dolore culpa sit nisi elit dolore cillum. Cupidatat fugiat anim do laborum. Occaecat reprehenderit elit voluptate et ipsum dolor ullamco laboris. Do amet Lorem irure officia ullamco consequat.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "duis",
+        "anim",
+        "nostrud",
+        "aute",
+        "ullamco",
+        "nisi",
+        "ut"
+      ]
+    },
+    {
+      "_id": "64536f048ca89ee94d92d12a",
+      "name": "do sunt id",
+      "price": "$144",
+      "picture": "https://cdn.exputer.com/wp-content/uploads/2022/07/Spectrum-Bundle.jpg.webp",
+      "color": "yellow",
+      "description": "Quis ullamco et minim mollit qui exercitation reprehenderit irure et consequat nisi. Anim minim mollit occaecat reprehenderit deserunt. Fugiat excepteur do laborum nisi enim cillum. Irure magna ad anim cillum quis nulla veniam commodo pariatur Lorem dolor excepteur.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "tempor",
+        "deserunt",
+        "et",
+        "consequat",
+        "enim",
+        "ea",
+        "cupidatat"
+      ]
+    },
+    {
+      "_id": "64536f04cbd37b24cf8f3398",
+      "name": "consectetur duis nostrud",
+      "price": "$169",
+      "picture": "https://www.valorantinfo.gg/wp-content/uploads/2021/09/valorant-gravitational-uranium-neuroblaster-bundle.jpg",
+      "color": "green",
+      "description": "Cupidatat laborum labore cillum irure deserunt. Aute cupidatat labore est enim pariatur ipsum dolor eiusmod deserunt pariatur. Esse nostrud eu dolor commodo nulla esse cupidatat est in ullamco amet eu proident.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "quis",
+        "esse",
+        "est",
+        "ipsum",
+        "ullamco",
+        "consequat",
+        "duis"
+      ]
+    },
+    {
+      "_id": "64536f043a6bffbaf5738aeb",
+      "name": "est officia cillum",
+      "price": "$202",
+      "picture": "https://pbs.twimg.com/media/EtTbyL7XIAAe6lg.jpg",
+      "color": "blue",
+      "description": "Deserunt qui veniam magna elit. In laboris tempor irure do ex et ex. Amet sit ad exercitation deserunt proident ad est elit. Id voluptate adipisicing esse amet.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "fugiat",
+        "anim",
+        "occaecat",
+        "duis",
+        "exercitation",
+        "eiusmod",
+        "aliqua"
+      ]
+    },
+    {
+      "_id": "64536f04a34cdd51cb60b69b",
+      "name": "velit duis minim",
+      "price": "-",
+      "picture": "https://i.ytimg.com/vi/l3T_p5v9cj0/maxresdefault.jpg",
+      "color": "brown",
+      "description": "Laborum laboris excepteur minim sint. Fugiat dolor ea id in. Aute aliqua culpa veniam consequat veniam aliqua mollit dolore nostrud laborum pariatur et cillum. Voluptate qui voluptate tempor est cupidatat eu cillum voluptate adipisicing magna.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "dolore",
+        "consectetur",
+        "consequat",
+        "commodo",
+        "tempor",
+        "dolor",
+        "culpa"
+      ]
+    },
+    {
+      "_id": "64536f043e161b4007402f04",
+      "name": "officia do consectetur",
+      "price": "$46",
+      "picture": "https://valorantstrike.com/wp-content/uploads/Valorant-Protocol-Collection-HD.jpg",
+      "color": "pink",
+      "description": "Incididunt culpa mollit cupidatat laborum velit amet occaecat dolore cillum mollit exercitation minim magna pariatur. Fugiat excepteur esse proident laboris eu deserunt labore nisi. Consequat aute aliquip labore velit.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "cillum",
+        "commodo",
+        "amet",
+        "elit",
+        "in",
+        "incididunt",
+        "est"
+      ]
+    },
+    {
+      "_id": "64536f04472814385d1558e3",
+      "name": "dolore ut nulla",
+      "price": "$196",
+      "picture": "https://pbs.twimg.com/media/FNvYsn4XEAQPrA5.jpg:large",
+      "color": "yellow",
+      "description": "Elit sunt eiusmod minim esse mollit nulla. Eiusmod aute cillum ipsum nisi commodo amet in voluptate minim. Ut et commodo laborum excepteur consectetur adipisicing ipsum magna ullamco ad nostrud sunt consectetur labore. Dolor proident ad aute deserunt id nulla exercitation in do sit minim. Amet fugiat aliqua voluptate et amet ad amet qui fugiat veniam ipsum eiusmod. Esse velit incididunt excepteur magna sunt amet. Officia consectetur est cupidatat aute elit esse excepteur nostrud consectetur commodo amet aute.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "velit",
+        "dolor",
+        "commodo",
+        "consequat",
+        "amet",
+        "quis",
+        "ullamco"
+      ]
+    },
+    {
+      "_id": "64536f041bd7d90bcf56f356",
+      "name": "irure et ad",
+      "price": "$116",
+      "picture": "https://thegamehaus.com/wp-content/uploads/2021/11/VALORANT-Radiant-Crisis-Skins.jpg",
+      "color": "blue",
+      "description": "Enim dolor fugiat ut laborum ex irure voluptate irure dolor nulla laborum. Mollit sint veniam cupidatat mollit aliqua duis nisi. Aliquip cillum duis ullamco deserunt.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "consequat",
+        "commodo",
+        "enim",
+        "proident",
+        "ullamco",
+        "velit",
+        "eu"
+      ]
+    },
+    {
+      "_id": "64536f04855d0a683e7346c0",
+      "name": "qui labore sunt",
+      "price": "$1349",
+      "picture": "https://pbs.twimg.com/media/FVaSI4nWQBQBYe7.png",
+      "color": "pink",
+      "description": "Esse culpa cupidatat mollit proident amet tempor labore nulla occaecat anim veniam. Pariatur irure sit mollit aute enim laboris laborum quis culpa pariatur eu dolor. Ea do eu occaecat amet et voluptate mollit irure sint pariatur tempor occaecat aliqua magna. Exercitation consequat do qui cillum est officia ad. Deserunt consequat dolore consectetur non aute. Ut eiusmod Lorem fugiat proident in do excepteur sint eiusmod deserunt occaecat cillum aliqua. Incididunt laboris dolore exercitation laboris laboris est sit elit sint duis duis veniam.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "fugiat",
+        "magna",
+        "incididunt",
+        "officia",
+        "magna",
+        "magna",
+        "eiusmod"
+      ]
+    },
+    {
+      "_id": "64536f04e0504944017077bb",
+      "name": "officia ullamco incididunt",
+      "price": "$162",
+      "picture": "https://cdn.gfinityesports.com/images/ncavvykf/gfinityesports/9c2acc2865821c187d1797320f9a33190323d4b2-1920x1080.jpg?rect=0,36,1920,1008&w=1600&h=840",
+      "color": "yellow",
+      "description": "Labore non enim ad in est deserunt velit. Mollit laborum proident officia voluptate non ut consectetur nulla laboris incididunt minim. Reprehenderit eu labore laborum et. Sit cillum labore veniam ea. Incididunt ullamco sint veniam aliqua minim reprehenderit ipsum nisi Lorem sint ad. Pariatur ex dolor ullamco elit sit amet ut id officia occaecat.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "non",
+        "sint",
+        "quis",
+        "ad",
+        "irure",
+        "aute",
+        "exercitation"
+      ]
+    },
+    {
+      "_id": "64536f0464091f459a58afa6",
+      "name": "esse magna laborum",
+      "price": "$144",
+      "picture": "https://dotesports.com/wp-content/uploads/2023/08/Magepunk-3.0.png",
+      "color": "green",
+      "description": "Velit reprehenderit ut dolore eiusmod quis laboris id amet fugiat aliquip laboris. Nisi reprehenderit exercitation dolor commodo nulla excepteur occaecat eu voluptate sint reprehenderit occaecat pariatur. Ullamco consectetur esse veniam aliquip. Ad ea anim deserunt aute ipsum fugiat ad. Aliqua ex ex anim consectetur irure ut fugiat esse ea irure minim exercitation duis. Fugiat tempor adipisicing occaecat quis cillum. Non nostrud labore exercitation duis eu ullamco officia amet.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "labore",
+        "ipsum",
+        "adipisicing",
+        "officia",
+        "mollit",
+        "ullamco",
+        "labore"
+      ]
+    },
+    {
+      "_id": "64536f040f4b454c35512fb9",
+      "name": "sit cupidatat sit",
+      "price": "$27",
+      "picture": "https://www.talkesport.com/wp-content/uploads/smite-bundle-valorant.jpg.webp",
+      "color": "brown",
+      "description": "Proident fugiat velit sunt amet pariatur eiusmod excepteur pariatur voluptate. Consectetur commodo ipsum excepteur do. Mollit aliqua officia magna labore do sunt ex adipisicing dolor ipsum cillum id.\r\n",
+      "category": "gun skin",
+      "tags": [
+        "ipsum",
+        "cupidatat",
+        "deserunt",
+        "elit",
+        "dolor",
+        "eiusmod",
+        "ea"
+      ]
+    }
+]
